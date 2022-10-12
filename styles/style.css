@@ -351,6 +351,10 @@ p.description {
   right: 0;
 }
 
+#pep-price {
+  visibility: none;
+}
+
 .price h2 {
   font-size: 30px;
   font-weight: bold;
